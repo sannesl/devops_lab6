@@ -3,3 +3,6 @@ I am changing this file for the purpose of the lab exercise
 1
 2
 3
+4
+5
+6
